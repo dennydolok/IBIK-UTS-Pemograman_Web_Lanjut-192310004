@@ -14,6 +14,6 @@ Password : password123
 
 
 
-Note :
+Additional note :
 
 Clear local storage on localhost to avoid any error
